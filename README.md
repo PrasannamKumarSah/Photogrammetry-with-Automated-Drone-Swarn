@@ -8,5 +8,5 @@ In this Project we created a 3D model of a residential house using the technique
 This will help you to visualize how things are done. \
 Video Link : https://www.youtube.com/watch?v=HL2elmYYLQ0&t=56s&ab_channel=AeroClubMNNIT
 
-# Repositories Link
+# Repositorie Link
 Link : https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn.git
