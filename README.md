@@ -2,7 +2,7 @@
 ###### OBJECTIVE :
 To create a 3D model of any object or Environment using photographs and then extracting required important information and data from this model.
 ###### OVERVIEW :
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/Topic.png" width="330"> <img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/AirSim.png" width="330"> <img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/AgiSoft.png" width="330">
 
 This Project aims to automate drone swarming to take images of the residential house site, and create a 3D model of that Residential House using images of residential house site that we take from our drones.We have done all this in Simulation but this all can be done in the real world also. For Simulation and for getting the virtual feel of a real environment we use AirSim and used its API with python to automate the drones and for swarming we used the AirSim Setting file. For creating a 3D model we used Agisoft Metashape Professionals.
 
@@ -30,12 +30,15 @@ Now the major steps that we have to follow are :
 ###### Basic Information's :
 - **Photogrammetry** :
 Photogrammetry is the technology of obtaining reliable information about physical objects and the environment by the use of Aerial photographs.
+<img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/1.png" width="100">
 
 - **AirSim** :
 AirSim(Aerial Informatics and Robotics Simulation) is an open-source, cross platform simulator for drones, ground vehicles such as cars and various other objects. It is developed by Microsoft and can be used to experiment with deep learning, computer vision, and reinforcement learning algorithms for autonomous vehicles. This allows testing of autonomous solution without worrying about real-world damage.
+<img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/2.png" width="100">
 
 - **Agisoft Metashape** :
 It is a tool of Photogrammetry . This software is available in Standard and Pro version, the standard version is sufficient for interactive media tasks, while the Pro version is designed for authoring GIS content.
+<img src="https://github.com/PrasannamKumarSah/Photogrammetry-with-Automated-Drone-Swarn/blob/main/Images/3.png" width="100">
 
 ###### Procedure :
 - **Launching AirSim with multiple drones that is we have to swarm first.**
